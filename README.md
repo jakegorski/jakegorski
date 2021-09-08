@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jakegorski
+- 👀 I am a recent Computer Science graduate from UNLV
+- 🌱 I’m currently learning python and Machine Learning
+- 📫 How to reach me jakegorski98@gmail.com
