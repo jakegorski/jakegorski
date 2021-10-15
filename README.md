@@ -7,3 +7,4 @@
   - Machine Learning (beginner)
 - 🌱 I’m currently learning python and Machine Learning
 - 📫 How to reach me jakegorski98@gmail.com
+- Connect with me on Linkedln!
